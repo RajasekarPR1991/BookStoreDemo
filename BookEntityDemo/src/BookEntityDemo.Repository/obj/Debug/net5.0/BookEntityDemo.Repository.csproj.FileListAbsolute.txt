@@ -1,0 +1,12 @@
+C:\Demo\BookEntityDemo.Repository\bin\Debug\net5.0\BookEntityDemo.Repository.deps.json
+C:\Demo\BookEntityDemo.Repository\bin\Debug\net5.0\BookEntityDemo.Repository.dll
+C:\Demo\BookEntityDemo.Repository\bin\Debug\net5.0\ref\BookEntityDemo.Repository.dll
+C:\Demo\BookEntityDemo.Repository\bin\Debug\net5.0\BookEntityDemo.Repository.pdb
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.csproj.AssemblyReference.cache
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.AssemblyInfoInputs.cache
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.AssemblyInfo.cs
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.csproj.CoreCompileInputs.cache
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.dll
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\ref\BookEntityDemo.Repository.dll
+C:\Demo\BookEntityDemo.Repository\obj\Debug\net5.0\BookEntityDemo.Repository.pdb

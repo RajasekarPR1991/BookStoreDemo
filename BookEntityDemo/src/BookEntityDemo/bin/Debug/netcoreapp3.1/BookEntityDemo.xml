@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookEntityDemo</name>
+    </assembly>
+    <members>
+        <member name="M:BookEntityDemo.Controllers.BookController.GetAllBooks">
+            <summary>
+            get all books
+            </summary>       
+            <returns></returns>
+        </member>
+        <member name="M:BookEntityDemo.Controllers.BookController.GetBook(System.String)">
+             <summary>
+             get book details by id
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /details
+                 {
+                    "id": "73b83093-881b-4d11-8d66-97c82f4dbb3b"
+                 }
+            
+             </remarks>
+             <param name="id"></param>
+             <returns></returns>
+        </member>
+        <member name="M:BookEntityDemo.Controllers.BookController.AddBook(BookEntityDemo.Models.Request.BookRequestModel)">
+             <summary>
+             add book record
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /add
+                 {
+                    "name" : "test",
+                    "authorName" : "test1"
+                 }
+            
+             </remarks>
+             <returns></returns>
+        </member>
+        <member name="M:BookEntityDemo.Controllers.BookController.UpdateBook(BookEntityDemo.Models.Request.BookUpdateRequestModel)">
+             <summary>
+             update book record
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT /update
+                 {
+                    "id": "73b83093-881b-4d11-8d66-97c82f4dbb3b",
+                    "name" : "test",
+                    "authorName" : "test1"
+                 }
+            
+             </remarks>
+             <returns></returns>
+        </member>
+        <member name="M:BookEntityDemo.Controllers.BookController.DeleteBook(System.String)">
+             <summary>
+             delete book
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 DELETE /delete
+                 {
+                    "id": "73b83093-881b-4d11-8d66-97c82f4dbb3b"
+                 }
+            
+             </remarks>
+             <param name="id"></param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\BookEntityDemo.Data.deps.json
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\BookEntityDemo.Data.runtimeconfig.json
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\BookEntityDemo.Data.runtimeconfig.dev.json
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\BookEntityDemo.Data.dll
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\ref\BookEntityDemo.Data.dll
+C:\Demo\BookEntityDemo.Data\bin\Debug\net5.0\BookEntityDemo.Data.pdb
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.AssemblyInfoInputs.cache
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.AssemblyInfo.cs
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.csproj.CoreCompileInputs.cache
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.dll
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\ref\BookEntityDemo.Data.dll
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.pdb
+C:\Demo\BookEntityDemo.Data\obj\Debug\net5.0\BookEntityDemo.Data.genruntimeconfig.cache
